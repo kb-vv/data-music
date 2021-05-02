@@ -1,0 +1,99 @@
+[ 
+  {
+    "id": "0",
+    "title": "想见你想见你想见你",
+    "author": "八三夭",
+    "albumn": "想见你想见你想见你",
+    "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_想见你想见你想见你.json",
+    "url": "https://kb-vv.github.io/data-mock/huawei-music/想见你想见你想见你.mp3"
+  },
+  {
+    "id": "1",
+    "title": "永不失联的爱(live)",
+    "author": "单依纯",
+    "albumn": "2020中国好声音 第三期",
+    "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_永不失联的爱.json",
+    "url": "https://kb-vv.github.io/data-mock/huawei-music/永不失联的爱 (Live).mp3"
+  },
+  {
+    "id": "2",
+    "title": "星辰大海",
+    "author": "黄霄雲",
+    "albumn": "星辰大海",
+    "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_星辰大海.json",
+    "url": "https://kb-vv.github.io/data-mock/huawei-music/星辰大海.mp3"
+  },
+  {
+    "id": "3",
+    "title": "蝴蝶泉边(live)",
+    "author": "黄雅莉",
+    "albumn": "超强音浪 第十八期",
+    "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_蝴蝶泉边.json",
+    "url": "https://kb-vv.github.io/data-mock/huawei-music/蝴蝶泉边(live).mp3"
+  },
+  {
+    "id": "4",
+    "title": "离开以后(live)",
+    "author": "许靖韵、陈乐基",
+    "albumn": "超强音浪 第十八期",
+    "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_离开以后.json",
+    "url": "https://kb-vv.github.io/data-mock/huawei-music/许靖韵陈乐基-离开以后(Live).mp3"
+  },
+  {
+    "id": "5",
+    "title": "天外来物",
+    "author": "薛之谦",
+    "albumn": "天外来物",
+    "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_天外来物.json",
+    "url": "https://kb-vv.github.io/data-mock/huawei-music/薛之谦-天外来物.mp3"
+  },
+{
+    "id": "6",
+    "title": "真的吗",
+    "author": "莫文蔚",
+    "albumn": "我要说I Say",
+    "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_真的吗.json",
+    "url": "https://kb-vv.github.io/data-mock/huawei-music/莫文蔚-真的吗.mp3"
+},    
+       
+{
+    "id": "7",
+    "title": "水星记",
+    "author": "郭顶",
+    "albumn": "飞行器的执行周期",
+    "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_水星记.json",
+    "url": "https://kb-vv.github.io/data-mock/huawei-music/水星记.mp3"
+},
+{
+  "id": "8",
+  "title": "后来的我们",
+  "author": "五月天",
+  "albumn": "后来的我们",
+  "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_后来的我们.json",
+  "url": "https://kb-vv.github.io/data-mock/huawei-music/后来的我们.mp3"
+},
+{
+  "id": "9",
+  "title": "假装",
+  "author": "陈雪凝",
+  "albumn": "拾陆",
+  "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_假装.json",
+  "url": "https://kb-vv.github.io/data-mock/huawei-music/假装.mp3"
+},
+{
+  "id": "10",
+  "title": "烦恼歌",
+  "author": "张学友",
+  "albumn": "在你身边",
+  "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_烦恼歌.json",
+  "url": "https://kb-vv.github.io/data-mock/huawei-music/烦恼歌.mp3"
+},
+{
+  "id": "11",
+  "title": "烦恼歌",
+  "author": "张学友",
+  "albumn": "在你身边",
+  "lyric": "https://kb-vv.github.io/data-mock/huawei-music/lyric_烦恼歌.json",
+  "url": "https://kb-vv.github.io/data-mock/huawei-music/烦恼歌.mp3"
+}
+]
